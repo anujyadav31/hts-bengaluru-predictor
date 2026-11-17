@@ -1,0 +1,7 @@
+,active_transport,bus,paid_private_vehicle,private_car,rail_based_public_transport,two_wheeler
+active_transport,140,1,1,0,0,0
+bus,5,194,3,0,2,1
+paid_private_vehicle,2,21,69,3,1,7
+private_car,0,2,4,35,2,0
+rail_based_public_transport,0,11,2,3,13,0
+two_wheeler,0,4,4,4,1,107

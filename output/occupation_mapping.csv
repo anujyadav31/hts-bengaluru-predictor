@@ -1,0 +1,7 @@
+raw_occupation,occupation_label,trip_rows
+Employed,employed,4544
+Homemaker,homemaker,1785
+Other,other,196
+Retired,non_employed,371
+Student,student_child,1591
+Unemployed,non_employed,158

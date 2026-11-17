@@ -1,0 +1,14 @@
+raw_mode,mode_label,trip_rows
+Auto-rickshaw,paid_private_vehicle,890
+Bicycle,active_transport,57
+City bus,bus,2011
+Metro,rail_based_public_transport,400
+Personal / shared car,private_car,540
+Personal / shared two-wheeler,two_wheeler,1606
+Ride-hail car,paid_private_vehicle,170
+Ride-hail two-wheeler,paid_private_vehicle,165
+School / company bus,bus,536
+Shared auto,paid_private_vehicle,80
+Suburban rail,rail_based_public_transport,2
+Taxi,paid_private_vehicle,133
+Walk,active_transport,2055
